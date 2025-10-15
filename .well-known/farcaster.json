@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjQ0MDcyMywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDJBNmI1MjA0QjgzQzc2MTljOTBjNEVCNmI1MzY1QUEwYjdkOTEyRjcifQ",
+    "payload": "eyJkb21haW4iOiJiYXNlLWNvbW11bml0eS1hcm91bmQtdGhlLXdvcmxkLmFyYWRlYWhvbGljLndvcmtlcnMuZGV2In0",
+    "signature": "GLTvFtzS5XHOWdhab6BEmXfaQK/FZ0TFG3bA7plhr9p/+sMVLlDNsvWkCdhdDIgXK8phYkTYc7lCk1CAY/CuxRw="
+  },
+  "frame": {
+    "version": "1",
+    "name": "Example Frame",
+    "iconUrl": "https://base-community-around-the-world.aradeaholic.workers.dev/icon.png",
+    "homeUrl": "https://base-community-around-the-world.aradeaholic.workers.dev",
+    "imageUrl": "https://base-community-around-the-world.aradeaholic.workers.dev/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://base-community-around-the-world.aradeaholic.workers.dev/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://base-community-around-the-world.aradeaholic.workers.dev/api/webhook"
+  }
+}
